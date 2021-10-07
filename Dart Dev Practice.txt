@@ -1,0 +1,62 @@
+void main(){
+
+  
+//P1 
+
+//   var sub1=78;
+//   double sub2=2.6;
+//    int sub3=9;
+//   num sub4=95;
+//   var sub5=("My name is Hassan,My age is 12");
+//   var result=sub1-sub4+sub2*sub3;
+//   print(result);
+
+  //P2
+
+//   var keys={1,2,3,4,5};
+//   var values={"Hassan","Lateef","Yousuf","Sara","Farzana"};
+//   var iterate=Map.fromIterables(keys,values);
+//   print(iterate);
+
+  //P3 
+
+//   var num=5;
+//   var tablelength=10;
+//   for(var i =1; i<=tablelength; i++){ 
+//     var result=num*i;
+    
+//     print("${num} x ${i} = ${result}");
+//   }
+  
+  //P4
+  
+//  var a=25;
+//  var b=93;
+//  var x=51;  
+//  var y=79; 
+//  if(a==b){
+//    ("Equal");
+//  } 
+//   else if(y==x){
+//     ("Equal");
+//   }
+//   else{
+//     ("False");
+//   }
+  
+  //P5
+  
+//  var lst = [23,97,41,67,39,75,37,18,09,34,87];
+//  var result=[0+8-5*3];
+//   print(result);
+//   print(lst[10]);
+//   print("Hassan");
+//   print(10+43);
+//   print(lst[4]);
+  
+  
+  
+  
+  
+  
+ }
